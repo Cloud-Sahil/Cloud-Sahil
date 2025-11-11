@@ -57,6 +57,6 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 ---
 
 ### ⚡ Quote
-> "Every deployment is a step closer to mastering automation."
+Good engineers solve problems. Great engineers prevent them.
 
 ⭐ Thanks for visiting — feel free to star or fork projects you find useful!
