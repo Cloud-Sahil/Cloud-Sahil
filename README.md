@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Sahil Ubhe  
+<h1 align="center">👋 Hi, I'm Sahil Ubhe</h1>
 
-🎓 **Recent Graduate | Aspiring DevOps Engineer | AWS Cloud Enthusiast**
+<p align="center">
+  🎓 <b>Recent Graduate</b> | <b>Aspiring DevOps Engineer</b> | <b>AWS Cloud Enthusiast</b>
+</p>
 
 Welcome to my GitHub profile!  
 I’ve recently completed my graduation and am now focused on building a strong career in *DevOps and Cloud Engineering*.  
 I’m passionate about automating processes, managing cloud infrastructure, and creating efficient deployment pipelines using modern tools and technologies.
+
+<!-- Typing animation (auto-generated SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2b6cb0&center=true&width=760&lines=Aspiring+DevOps+Engineer;AWS+•+Kubernetes+•+Linux+•+Terraform" alt="Typing SVG">
+</p>
 
 ---
 
@@ -38,9 +45,8 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 ---
 
 ### 📈 GitHub Stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilub17&show_icons=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilub017&layout=compact&theme=default)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=compact&theme=default)
 
 ---
 
