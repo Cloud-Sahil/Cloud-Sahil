@@ -51,10 +51,8 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 ---
 
 ### 📫 Connect with Me
-www.linkedin.com/in/
-sahil-ubhe-9a59042b2
-Vanity URL name
-  
+
+www.linkedin.com/in/sahil-ubhe-9a59042b2  
 [![Email](https://img.shields.io/badge/Email-sahilubhe7911@gmail.com-red?style=flat&logo=gmail)](mailto:sahilubhe7911@gmail.com)
 
 ---
