@@ -44,11 +44,6 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 
 ---
 
-### 📈 GitHub Stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=compact&theme=default)
-
----
 
 ### 📫 Connect with Me
 
