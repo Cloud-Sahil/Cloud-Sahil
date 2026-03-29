@@ -46,11 +46,12 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2)
 
-[![Email](https://img.shields.io/badge/-red?style=flat&logo=gmail)](mailto:sahilubhe7911@gmail.com)
+[![Gmail](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:sahilubhe7911@gmail.com)
 
 ---
+
 
 ### ⚡ Quote
 Good engineers solve problems. Great engineers prevent them.
