@@ -46,9 +46,13 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2)
+<a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20"/>
+</a>
 
-[![Gmail](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:sahilubhe7911@gmail.com)
+<a href="mailto:sahilubhe7911@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>
+</a>
 
 ---
 
