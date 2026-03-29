@@ -46,9 +46,9 @@ I’m passionate about automating processes, managing cloud infrastructure, and 
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Ubhe-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2)
 
-[![Email](https://img.shields.io/badge/Email-sahilubhe7911@gmail.com-red?style=flat&logo=gmail)](mailto:sahilubhe7911@gmail.com)
+[![Email](https://img.shields.io/badge/-red?style=flat&logo=gmail)](mailto:sahilubhe7911@gmail.com)
 
 ---
 
