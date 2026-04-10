@@ -47,7 +47,6 @@ I’ve recently completed my graduation and am now focused on building a strong 
 <a href="mailto:sahilubhe7911@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
 </a>
-
 <a href="(https://github.com/Cloud-Sahil/Cloud-Sahil.git)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
 </a>
