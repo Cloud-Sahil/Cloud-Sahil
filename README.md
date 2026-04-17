@@ -41,7 +41,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ### 🌐 Connect with Me:
 
 <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
 
 
