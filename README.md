@@ -37,6 +37,43 @@ I’ve recently completed my graduation and am now focused on building a strong 
 - Pursue **AWS Certification** (Solutions Architect / DevOps Engineer)  
 
 ---
+```sh
+.github/workflows/snake.yml
+```
+```sh
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: cloud-sahil
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+
+
+
+
+
 
 ### 🌐 Connect with Me:
 
