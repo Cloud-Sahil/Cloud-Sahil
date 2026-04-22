@@ -38,12 +38,6 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/cloud-sahil/cloud-sahil/output/github-contribution-grid-snake.svg)
-
-![snake dark](https://raw.githubusercontent.com/cloud-sahil/cloud-sahil/output/github-contribution-grid-snake-dark.svg)
-
-
-
 
 ### 🌐 Connect with Me:
 
