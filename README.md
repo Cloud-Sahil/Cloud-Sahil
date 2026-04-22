@@ -38,13 +38,9 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/cloud-sahil/cloud-sahil/output/github-contribution-grid-snake.svg)
 
-![snake animation](https://github.com/cloud-sahil/cloud-sahil/blob/output/github-contribution-grid-snake.svg)
-
-## 🌙 Dark Mode Snake
-
-![snake dark](https://github.com/cloud-sahil/cloud-sahil/blob/output/github-contribution-grid-snake-dark.svg)
+![snake dark](https://raw.githubusercontent.com/cloud-sahil/cloud-sahil/output/github-contribution-grid-snake-dark.svg)
 
 
 
