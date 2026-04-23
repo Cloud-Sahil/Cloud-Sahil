@@ -43,6 +43,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
   <img src="https://github.com/Cloud-Sahil/Cloud-Sahil/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 ### 🌐 Connect Me:
 
 <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2">
