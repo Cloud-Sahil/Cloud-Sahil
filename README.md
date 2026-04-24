@@ -84,10 +84,5 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 <!-- Typing animation -->
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2b6cb0&center=true&width=760&lines=Open%20to%20DevOps%20Engineer%20%7C%20Cloud%20Engineer;AWS%20Engineer%20%7C%20Infrastructure%20Engineer%20%7C%20Cloud%20Support%20Engineer;Immediate%20Joiner%20%7C%20Pune%20%7C%20Mumbai%20%7C%20Nagpur%20%7C%20Nashik%20%7C%20Kolhapur%20%7C%20Remote" alt="Typing SVG"> 
-</p>
-
-<!-- Footer banner (no text) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2B6CB0&center=true&vCenter=true&width=900&lines=Open%20to%20DevOps%20Engineer%20%7C%20Cloud%20Engineer;AWS%20Engineer%20%7C%20Infrastructure%20Engineer%20%7C%20Cloud%20Support%20Engineer;Immediate%20Joiner%20%7C%20Pune%20%7C%20Mumbai%20%7C%20Nagpur%20%7C%20Nashik%20%7C%20Kolhapur%20%7C%20Remote" alt="Typing SVG"/>
 </p>
