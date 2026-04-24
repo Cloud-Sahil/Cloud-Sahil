@@ -17,16 +17,19 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-| Category | Tools |
-|---------|--------|
-| ☁️ Cloud Platforms | AWS (EC2, S3, IAM, Lambda, CloudFormation, EKS) |
-| ⚙️ DevOps & IaC | Docker · Kubernetes · Terraform · Jenkins · Ansible |
-| 💻 Operating Systems | Linux (Ubuntu, CentOS) |
-| 🧑‍💻 Programming & Scripting | Python · Bash · YAML |
-| 🔄 Version Control & CI/CD | Git · GitHub Actions |
-| 📊 Monitoring & Logging | Prometheus · Grafana |
+### ☁️ Cloud Platform
+![AWS](https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![EKS](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![S3](https://img.shields.io/badge/-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Route53](https://img.shields.io/badge/-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![VPC](https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
