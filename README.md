@@ -37,6 +37,12 @@ I’ve recently completed my graduation and am now focused on building a strong 
 - Pursue **AWS Certification** (Solutions Architect / DevOps Engineer)  
 
 ---
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cloud-Sahil&theme=tokyo-night&hide_border=true"/>
+
+
+---
 ### 🐍 Contribution Snake
 
 <p align="center">
