@@ -10,11 +10,41 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Currently learning and practicing **AWS, DevOps, Kubernetes, and Linux**
-- ☁️ Interested in building and managing **scalable cloud infrastructure**
-- ⚙️ Hands-on with **CI/CD, Docker, Terraform, Jenkins, And Ansible**
-- 🤝 Open to collaboration and learning from the DevOps community
+```sh
+## 👨‍💻 About Me
 
+```yaml
+Name: Sahil Ubhe
+Role: DevOps Engineer | Cloud Engineer
+Experience: 6+ Months (DevOps + Cloud)
+
+Current:
+  Company: Hisan Labs Pvt. Ltd.
+  Position: DevOps Engineer Intern
+  Location: Pune
+
+Education:
+  Degree: BCA
+  University: Savitribai Phule University, Pune
+  CGPA: 7.13
+
+Focus:
+  - AWS Cloud Infrastructure
+  - CI/CD Automation
+  - Containerization
+  - Linux Administration
+  - Monitoring
+
+Open_To:
+  - DevOps Engineer
+  - Cloud Engineer
+  - AWS Engineer
+  - Infrastructure Engineer
+  - Cloud Support Engineer
+
+Location: Pune | Mumbai | Nagpur | Nashik | Remote
+Status: Immediate Joiner 🚀
+```
 ---
 
 ## 🛠️ Tools & Technologies:
