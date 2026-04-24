@@ -35,6 +35,19 @@ I’ve recently completed my graduation and am now focused on building a strong 
 - Deploy applications using **Kubernetes and Docker**  
 - Manage infrastructure using **Terraform + Ansible**  
 - Pursue **AWS Certification** (Solutions Architect / DevOps Engineer)  
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Cloud-Sahil&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 
 ---
 ## 📈 Contribution Activity
