@@ -53,27 +53,23 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ### 🌐 Connect Me:
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail -->
   <a href="mailto:sahilubhe7911@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub -->
   <a href="https://github.com/Cloud-Sahil" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Fiverr (custom icon) -->
   <a href="https://www.fiverr.com/sahil_excel017" target="_blank">
-    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=fiverr" />
   </a>
 </p>
 
