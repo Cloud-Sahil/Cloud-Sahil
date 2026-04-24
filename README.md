@@ -11,9 +11,6 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ## 👨‍💻 About Me
 ```sh
-## 👨‍💻 About Me
-
-```yaml
 Name: Sahil Ubhe
 Role: DevOps Engineer | Cloud Engineer
 Experience: 6+ Months (DevOps + Cloud)
