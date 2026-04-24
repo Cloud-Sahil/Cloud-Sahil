@@ -69,14 +69,13 @@ I’ve recently completed my graduation and am now focused on building a strong 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.fiverr.com/sahil_excel017" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fiverr" />
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="48" width="48"/>
   </a>
 </p>
 
 <p align="center">
   <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
 </p>
-
 ---
 
 
