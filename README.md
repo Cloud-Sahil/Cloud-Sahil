@@ -53,18 +53,14 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Ubhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sahilubhe7911@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Cloud-Sahil">
-    <img src="https://img.shields.io/badge/GitHub-Cloud--Sahil-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
 </p>
 
 ---
