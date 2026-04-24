@@ -233,7 +233,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 <div align="center">
 
-⭐️ **Star some repos if you find them useful!** · *Made with ❤️ by Sahil Ubhe*
 
 </div>
 
