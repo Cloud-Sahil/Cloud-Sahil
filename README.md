@@ -50,7 +50,27 @@ I’ve recently completed my graduation and am now focused on building a strong 
 </p>
 
 ---
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/sahil_excel017" target="_blank">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="48" width="48"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahilubhe7911@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Cloud-Sahil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
+<p align="center">
+  <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
+</p>
+
+---
 ### ⚡ Quote
 Good engineers solve problems. Great engineers prevent them.
 
