@@ -129,7 +129,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,ansible,githubactions,nginx,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,nginx,prometheus,grafana&theme=dark" />
 </p>
 
 ### 💻 Languages & Dev Tools
