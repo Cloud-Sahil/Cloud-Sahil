@@ -30,13 +30,18 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-### 📘 Learning Goals
-- Build a **complete CI/CD pipeline** for cloud-based applications  
-- Deploy applications using **Kubernetes and Docker**  
-- Manage infrastructure using **Terraform + Ansible**  
-- Pursue **AWS Certification** (Solutions Architect / DevOps Engineer)  
----
+## 💼 Work Experience
+### 🏢 Hisan Labs Pvt. Ltd. — DevOps Engineer Intern | July 2025 – Present
+ - Managed AWS cloud infrastructure including EC2, VPC, IAM, S3, RDS, Route53, CloudFront, and Auto Scaling Groups ensuring scalable and highly available production systems
+ - Configured Amazon VPC with public and private subnets, NAT Gateways, Elastic Load Balancers, and Security Groups for secure and isolated network architecture
+ - Set up Amazon CloudWatch and Datadog for real-time monitoring, alerting, and log management to maintain system uptime across production environments
+ - Applied AWS security best practices including IAM least-privilege policies, Secrets Manager, KMS encryption, CloudTrail auditing, and NACLs for layered access control
+ - Containerized applications using Docker and orchestrated workloads on Kubernetes EKS clusters managing Pods, Deployments, Services, and ConfigMaps
+ - Built and maintained CI/CD pipelines using Jenkins and GitHub Actions automating build, test, and release workflows reducing manual deployment effort significantly
+ - Administered Linux (Ubuntu) servers handling user management, file permissions, cron scheduling, and log rotation for stable production operations
+ - Performed root cause analysis on infrastructure and deployment failures, documented resolution steps, and implemented preventive measures
 
+---
 ## 🚀 Featured Projects
 
 Here are some of my practical implementations demonstrating my DevOps skills:
