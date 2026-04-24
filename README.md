@@ -69,7 +69,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-
 ## 🚀 Featured Projects
 
 ### 📦 [EasyCRUD-docker-updated](https://github.com/Cloud-Sahil/EasyCRUD-docker-updated)
@@ -121,8 +120,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -145,7 +142,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 ---
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -162,7 +158,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 </div>
 
 ---
-
 
 
 ## 📈 Skill Levels
@@ -184,6 +179,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -196,7 +192,16 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 </div>
 
-> ⚙️ **Snake not showing?** See the [setup instructions](#snake-setup) at the bottom of this file.
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 ---
 
