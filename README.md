@@ -128,25 +128,9 @@ Here are some of my practical implementations demonstrating my DevOps skills:
 
 **🛠️ Tech Stack:** AWS EKS, RDS, EC2, Docker, MySQL, MongoDB, Kubernetes  
 
----
 
-### 🐳 [Student-App-Dockerfile](https://github.com/Cloud-Sahil/Student-App-Dockerfile-)
-> 📚 Dockerized student application with database integration  
-> ✔️ Custom Dockerfile creation  
-> ✔️ Database setup using MariaDB  
-> ✔️ Hosted on EC2 with RDS connectivity  
 
-**🛠️ Tech Stack:** Docker, MariaDB, AWS RDS, EC2, MySQL  
-
----
-
-### 🗄️ [AWS-RDS-Project](https://github.com/Cloud-Sahil/AWS-RDS-Project)
-> ☁️ Hands-on project demonstrating AWS RDS setup and usage  
-> ✔️ Database provisioning in AWS  
-> ✔️ Secure connectivity setup  
-> ✔️ Integration with applications  
-
-**🛠️ Tech Stack:** AWS RDS, MySQL, EC2  
+ 
 
 ---
 
