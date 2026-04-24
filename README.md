@@ -69,8 +69,8 @@ I’ve recently completed my graduation and am now focused on building a strong 
 <p align="center">
   <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
 </p>
----
 
+---
 
 ### ⚡ Quote
 Good engineers solve problems. Great engineers prevent them.
