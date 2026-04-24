@@ -52,10 +52,23 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ---
 ### 🌐 Connect Me:
 
-<a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahilubhe7911@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Cloud-Sahil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
+<p align="center">
+  <i>Let's collaborate, learn, and grow together in the DevOps journey! 🚀</i>
+</p>
 
 
 ---
