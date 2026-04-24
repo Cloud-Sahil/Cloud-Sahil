@@ -9,7 +9,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-### 💡 About Me
+## 👨‍💻 About Me
 - 🎯 Currently learning and practicing **AWS, DevOps, Kubernetes, and Linux**
 - ☁️ Interested in building and managing **scalable cloud infrastructure**
 - ⚙️ Hands-on with **CI/CD, Docker, Terraform, Jenkins, And Ansible**
@@ -17,7 +17,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies:
 
 ### ☁️ Cloud Platform
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
