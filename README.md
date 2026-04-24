@@ -6,8 +6,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Sahil+Ubhe+👋;Building+things+in+the+cloud+☁️;DevOps+%7C+Cloud+%7C+Automation+🚀;Learning+every+single+day+📚;Open+to+collaborate+%26+connect+🤝;Infrastructure+as+Code+is+poetry+✨)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Cloud-Sahil&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117"/>
-
 </div>
 
 ---
