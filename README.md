@@ -12,7 +12,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🙋‍♂️ About Me
 
@@ -51,7 +50,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Work Experience
 
@@ -71,7 +69,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -124,7 +121,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -147,7 +144,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 📊 GitHub Stats
 
@@ -187,8 +184,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -205,9 +200,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
