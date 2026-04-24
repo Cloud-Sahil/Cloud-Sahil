@@ -37,6 +37,70 @@ I’ve recently completed my graduation and am now focused on building a strong 
 - Pursue **AWS Certification** (Solutions Architect / DevOps Engineer)  
 ---
 
+## 🚀 Featured Projects
+
+Here are some of my practical implementations demonstrating my DevOps skills:
+
+---
+
+### 📦 [EasyCRUD-docker-updated](https://github.com/Cloud-Sahil/EasyCRUD-docker-updated)
+> 🐳 A containerized CRUD application using Docker  
+> ✔️ Full-stack dockerization  
+> ✔️ Dependency management  
+> ✔️ Consistent dev-to-prod environment  
+
+**🛠️ Tech Stack:** Docker, Node.js, MongoDB  
+
+---
+
+### ☸️ [student-app-k8s](https://github.com/mukundDeo9325/student-app-k8s)
+> ⚙️ Kubernetes deployment for student management system  
+> ✔️ Deployments, Services, ConfigMaps, Ingress  
+> ✔️ Pod lifecycle & scaling  
+> ✔️ Service discovery  
+
+**🛠️ Tech Stack:** Kubernetes, Docker, YAML  
+
+---
+
+### ☁️ [K8S-Project-Deployment](https://github.com/Cloud-Sahil/K8S-Project-Deployment-)
+> 🚀 End-to-end cloud-native deployment using AWS & Kubernetes  
+> ✔️ Application deployed on EKS cluster  
+> ✔️ Database integration using RDS  
+> ✔️ Containerized with Docker & deployed via EC2  
+> ✔️ Managed scalable architecture  
+
+**🛠️ Tech Stack:** AWS EKS, RDS, EC2, Docker, MySQL, MongoDB, Kubernetes  
+
+---
+
+### 🐳 [Student-App-Dockerfile](https://github.com/Cloud-Sahil/Student-App-Dockerfile-)
+> 📚 Dockerized student application with database integration  
+> ✔️ Custom Dockerfile creation  
+> ✔️ Database setup using MariaDB  
+> ✔️ Hosted on EC2 with RDS connectivity  
+
+**🛠️ Tech Stack:** Docker, MariaDB, AWS RDS, EC2, MySQL  
+
+---
+
+### 🗄️ [AWS-RDS-Project](https://github.com/Cloud-Sahil/AWS-RDS-Project)
+> ☁️ Hands-on project demonstrating AWS RDS setup and usage  
+> ✔️ Database provisioning in AWS  
+> ✔️ Secure connectivity setup  
+> ✔️ Integration with applications  
+
+**🛠️ Tech Stack:** AWS RDS, MySQL, EC2  
+
+---
+
+<p align="center">
+  🔗 <a href="https://github.com/Cloud-Sahil">Explore More Projects</a>
+</p>
+
+
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
