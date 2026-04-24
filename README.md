@@ -1,123 +1,260 @@
+<!-- Header Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Sahil%20Ubhe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20Enthusiast%20%E2%80%A2%20Open%20Source%20Explorer&descAlignY=55&descAlign=50&descSize=18" />
+
 <div align="center">
 
-```
- ██████╗██╗      ██████╗ ██╗   ██╗██████╗     ███████╗ █████╗ ██╗  ██╗██╗██╗
-██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗██║  ██║██║██║
-██║     ██║     ██║   ██║██║   ██║██║  ██║    ███████╗███████║███████║██║██║
-██║     ██║     ██║   ██║██║   ██║██║  ██║    ╚════██║██╔══██║██╔══██║██║██║
-╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝    ███████║██║  ██║██║  ██║██║███████╗
- ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-```
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Sahil+Ubhe+👋;Building+things+in+the+cloud+☁️;DevOps+%7C+Cloud+%7C+Automation+🚀;Learning+every+single+day+📚;Open+to+collaborate+%26+connect+🤝;Infrastructure+as+Code+is+poetry+✨)](https://git.io/typing-svg)
 
-### Hey there! I'm **Sahil Ubhe** 👋
-#### Cloud Engineer · DevOps Enthusiast · Open Source Explorer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+things+in+the+cloud+☁️;Learning+every+single+day+📚;Open+to+collaborate+%26+connect+🤝)](https://git.io/typing-svg)
+<!-- Social Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Ubhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <a href="mailto:sahilubhe7911@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sahilubhe7911-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <a href="https://github.com/Cloud-Sahil">
+    <img src="https://img.shields.io/badge/GitHub-Cloud--Sahil-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Cloud-Sahil&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117"/>
+</p>
 
 </div>
 
 ---
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🙋‍♂️ About Me
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
 ```yaml
-name: Sahil Ubhe
-location: India 🇮🇳
-role: Cloud & DevOps Engineer
-currently_learning: [Kubernetes, Terraform, CI/CD Pipelines]
-open_to: [Collaborations, Open Source, Freelance Projects]
-fun_fact: I debug infra faster with coffee ☕
+┌─────────────────────────────────────┐
+│        whoami: Sahil Ubhe           │
+│        location: India 🇮🇳           │
+│        role: Cloud & DevOps Eng.    │
+│                                     │
+│  learning:                          │
+│    - Kubernetes                     │
+│    - Terraform                      │
+│    - CI/CD Pipelines                │
+│    - GitOps                         │
+│                                     │
+│  open_to:                           │
+│    - Collaborations                 │
+│    - Open Source                    │
+│    - Freelance Projects             │
+│                                     │
+│  fun_fact: coffee + code = magic ☕ │
+└─────────────────────────────────────┘
 ```
 
-- 🔭 I'm currently working on **cloud-native projects & automation**
-- 🌱 Deep diving into **Kubernetes**, **Terraform** & **GitOps workflows**
-- 💬 Ask me about **Linux, Cloud, Docker, DevOps** — happy to help!
+- 🔭 Working on **cloud-native projects & automation**
+- 🌱 Deep diving into **Kubernetes**, **Terraform** & **GitOps**
+- 💬 Ask me about **Linux, Cloud, Docker, DevOps**
 - 📫 Reach me at **sahilubhe7911@gmail.com**
-- ⚡ Fun fact: I believe **infrastructure as code** is poetry in disguise
+- ⚡ I believe **infrastructure as code** is poetry in disguise
+- 🎯 Goal: Contribute to major open-source DevOps tools
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,ansible,githubactions,nginx,prometheus,grafana&theme=dark" />
+</p>
 
 ### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,go,linux,git,vscode&theme=dark" />
+</p>
 
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-Sahil&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=ff6b6b&currStreakLabel=0ea5e9" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cloud-Sahil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=0ea5e9&area=true&area_color=0ea5e9)](https://github.com/Cloud-Sahil)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-Sahil&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=ff6b6b&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=8b949e" />
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Cloud-Sahil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Cloud-Sahil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Cloud-Sahil)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cloud-Sahil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff)](https://github.com/Cloud-Sahil)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Skill Levels
+
+<div align="center">
+
+| Technology | Progress | Level |
+|---|---|---|
+| ☁️ AWS / Cloud | `████████░░` 80% | Advanced |
+| 🐳 Docker | `████████░░` 80% | Advanced |
+| 🔧 Linux | `█████████░` 90% | Expert |
+| 🐍 Python | `███████░░░` 70% | Proficient |
+| ⚙️ Kubernetes | `██████░░░░` 60% | Intermediate |
+| 🌿 Terraform | `██████░░░░` 60% | Intermediate |
+| 🔄 CI/CD | `███████░░░` 70% | Proficient |
+
+</div>
+
+---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilubhe7911@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cloud-Sahil)
+<a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="mailto:sahilubhe7911@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/Cloud-Sahil">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br/>
+<em><b>I love connecting with amazing people!</b> Say <b>hi 👋</b> anytime!</em>
 
 </div>
 
 ---
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer&animation=twinkling"/>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cloud-Sahil&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)
-
-**"The cloud is not someone else's computer — it's everyone's opportunity."** ☁️
-
-⭐️ *If you like my work, consider giving a star to some repos!*
+⭐️ **Star some repos if you find them useful!** · *Made with ❤️ by Sahil Ubhe*
 
 </div>
+
+---
+
+<!--
+=================================================================
+🐍 SNAKE ANIMATION SETUP — DO THIS ONCE!
+=================================================================
+
+1. Create file: .github/workflows/snake.yml
+   (inside your Cloud-Sahil/Cloud-Sahil profile repo)
+
+2. Paste this content:
+
+---
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+3. Go to: Settings → Actions → General → Workflow permissions
+   → Enable "Read and write permissions" → Save
+
+4. Run manually: Actions tab → "Generate Snake Animation" → Run workflow
+
+5. Done! Snake updates every 12 hours automatically 🎉
+=================================================================
+-->
