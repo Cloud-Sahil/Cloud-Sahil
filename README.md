@@ -133,8 +133,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 <p>
   <img src="https://skillicons.dev/icons?i=datadog&theme=dark" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48"/>
-  <img src="https://img.shields.io/badge/SRE-000000?style=for-the-badge&logo=site-reliability-engineering&logoColor=white"/>
 </p>
 
 ### 💻 Languages & Dev Tools
