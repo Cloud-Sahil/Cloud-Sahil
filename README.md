@@ -134,7 +134,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ### 💻 Languages & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,go,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode&theme=dark" />
 </p>
 
 </div>
