@@ -82,7 +82,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 
-<!-- Typing animation (no background) -->
+<!-- Typing animation (small size) -->
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2B6CB0&center=true&vCenter=true&width=760&lines=Open%20to%20DevOps%20Engineer%20%7C%20Cloud%20Engineer;AWS%20Engineer%20%7C%20Infrastructure%20Engineer%20%7C%20Cloud%20Support%20Engineer;Immediate%20Joiner%20%7C%20Pune%20%7C%20Mumbai%20%7C%20Remote" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Open%20to%20DevOps%20Engineer%20%7C%20Cloud%20Engineer;AWS%20Engineer%20%7C%20Infrastructure%20Engineer%20%7C%20Cloud%20Support%20Engineer;Immediate%20Joiner%20%7C%20Pune%20%7C%20Mumbai%20%7C%20Remote" alt="Typing SVG"/>
 </p>
