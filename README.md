@@ -46,23 +46,16 @@ I’ve recently completed my graduation and am now focused on building a strong 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Cloud-Sahil/Cloud-Sahil/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-### 🌐 Connect Me:
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
+  
   <a href="mailto:sahilubhe7911@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-
+  
   <a href="https://github.com/Cloud-Sahil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
