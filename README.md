@@ -51,12 +51,7 @@ I’ve recently completed my graduation and am now focused on building a strong 
 
 ---
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-ubhe-9a59042b2/)
-
-[![Gmail](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white)](mailto:sahilubhe7911@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/-181717?logo=github&logoColor=white)](https://github.com/Cloud-Sahil)
-
+<p align="center"><a href="https://www.linkedin.com/in/sahil-ubhe-9a59042b2/"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:sahilubhe7911@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://github.com/Cloud-Sahil"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 ---
 
 ### ⚡ Quote
