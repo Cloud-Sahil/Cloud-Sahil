@@ -128,7 +128,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,nginx,prometheus,datadog,grafana,git,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,nginx,prometheus,grafana,git,github,gitlab&theme=dark" />
 </p>
 
 ### 💻 Languages & Dev Tools
