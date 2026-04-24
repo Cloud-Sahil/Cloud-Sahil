@@ -62,7 +62,6 @@ I’ve recently completed my graduation and am now focused on building a strong 
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### ⚡ Quote
