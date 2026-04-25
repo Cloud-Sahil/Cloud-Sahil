@@ -179,16 +179,9 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
+<p align="center">
+  <img src="https://github.com/Cloud-Sahil/Cloud-Sahil/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
