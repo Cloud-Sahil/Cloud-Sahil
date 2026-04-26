@@ -177,11 +177,22 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 ---
 
 
-## 🐍 Contribution Snake
+## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Cloud-Sahil/Cloud-Sahil/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Cloud-Sahil/Cloud-Sahil/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
