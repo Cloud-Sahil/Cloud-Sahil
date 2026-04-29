@@ -136,6 +136,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode&theme=dark" />
 </p>
 
+</div>
 ---
 
 
