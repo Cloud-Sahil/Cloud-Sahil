@@ -120,7 +120,6 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ## 🛠️ Tech Stack & Tools
 
-## 🏆 Tech Badges
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
