@@ -124,7 +124,12 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+</p>
+
+### 📦 Containerization & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 </p>
 
 ### ⚙️ CI/CD & Version Control
@@ -132,14 +137,23 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,gitlab&theme=dark" />
 </p>
 
-### 📊 Monitoring & Code Quality
+### 🏗️ Infrastructure as Code
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
+</p>
+
+### 📊 Monitoring & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="50"/>
 </p>
 
-### 💻 Languages & Dev Tools
+### 🔍 Code Quality
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
+</p>
+
+### 💻 Programming & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vscode&theme=dark" />
 </p>
