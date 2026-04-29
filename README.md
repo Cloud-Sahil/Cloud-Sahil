@@ -127,13 +127,21 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform&theme=dark" />
 </p>
 
+### ⚙️ CI/CD & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,nginx,prometheus,grafana,git,github,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,gitlab&theme=dark" />
+</p>
+
+### 📊 Monitoring & Code Quality
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="50"/>
 </p>
 
 ### 💻 Languages & Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,vscode&theme=dark" />
 </p>
 
 </div>
