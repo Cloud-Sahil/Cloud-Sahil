@@ -127,20 +127,38 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
 ### 📦 Containerization & Orchestration
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### ⚙️ CI/CD & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,gitlab&theme=dark" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-DevOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
 
 ### 🏗️ Infrastructure as Code
 <p>
   <img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
 ### 📊 Monitoring & Observability
@@ -148,19 +166,32 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="50"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-Observability-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+</p>
 
 ### 🔍 Code Quality
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </p>
 
 ### 💻 Programming & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,linux,vscode&theme=dark" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 </div>
-
 
 ---
 
