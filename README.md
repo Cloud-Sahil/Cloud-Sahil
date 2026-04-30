@@ -83,7 +83,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-### 🌍 [ Terraform Infrastructure Setup](https://github.com/Cloud-Sahil/Terraform.git)
+### 🌍 [ Terraform Project – Super Mario Deployment on AWS](https://github.com/Cloud-Sahil/Terraform.git)
 
 >Infrastructure as Code project demonstrating automated AWS resource provisioning using Terraform.
 
