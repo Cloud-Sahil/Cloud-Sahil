@@ -83,17 +83,18 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ---
 
-### ☸️ [student-app-k8s](https://github.com/mukundDeo9325/student-app-k8s)
+### 🌍 [ Terraform Infrastructure Setup](https://github.com/Cloud-Sahil/Terraform.git)
 
-> Kubernetes deployment for a student management system showcasing real-world K8s resource management.
+>Infrastructure as Code project demonstrating automated AWS resource provisioning using Terraform.
 
-| Feature | Detail |
-|---|---|
-| ⚙️ K8s Resources | Deployments, Services, ConfigMaps, Ingress |
-| 📈 Scaling | Pod lifecycle management & horizontal scaling |
-| 🔗 Networking | Service discovery & internal DNS routing |
+| Feature        | Detail                                                   |
+| -------------- | -------------------------------------------------------- |
+| ⚙️ IaC         | Infrastructure defined and managed using Terraform code  |
+| ☁️ AWS Setup   | Automated provisioning of services like EC2, VPC, and S3 |
+| 🔁 Reusability | Modular and reusable Terraform configurations            |
+| 📦 State Mgmt  | Remote state handling and resource tracking              |
 
-**🛠️ Stack:** `Kubernetes` `Docker` `YAML`
+**🛠️ Stack:** `Terrafrom` `AWS` `HCL`
 
 ---
 
