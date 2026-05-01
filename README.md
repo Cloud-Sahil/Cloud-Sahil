@@ -205,7 +205,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cloud-Sahil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CloudSahil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-Sahil&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=ff6b6b&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=8b949e" />
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Sahil&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6" />
