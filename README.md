@@ -69,6 +69,22 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ## 🚀 Featured Projects
 
+### 🏥 [EduBlitz – Medical B2B ERP Platform](https://github.com/Cloud-Sahil/edublitz-b2b-medical-erp)
+
+> Production-grade B2B ERP platform for hospitals, distributors, and medical vendors, built on a microservices architecture with full CI/CD and Infrastructure as Code.
+
+| Feature | Detail |
+|---|---|
+| 🏗️ Microservices | 3 Spring Boot services — user, product, and order management |
+| ☁️ Cloud Deployment | AWS EKS, S3, CloudFront, Route 53 |
+| 🔄 CI/CD | Jenkins pipelines for backend, frontend, and infra |
+| 🛡️ Security | JWT auth (RS256), Trivy container scanning, RBAC |
+| 🏗️ IaC | Modular Terraform for AWS infrastructure |
+
+**🛠️ Stack:** `React` `Spring Boot` `MongoDB Atlas` `Docker` `Kubernetes` `Terraform` `Jenkins`
+
+---
+
 ### 📦 [EasyCRUD-docker-updated](https://github.com/Cloud-Sahil/EasyCRUD-docker-updated)
 
 > A fully containerized CRUD application demonstrating real-world Docker usage from dev to production.
