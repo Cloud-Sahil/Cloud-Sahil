@@ -85,25 +85,21 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Reservation Application
-> Full-stack flight reservation system built on a Microservices architecture
+### ✈️ [Flight Reservation Application](https://github.com/Cloud-Sahil/Flight-reservation)
+> Production-grade full-stack flight reservation system deployed on AWS EC2, built with a microservices-ready architecture covering booking, customer management, and reservation workflows.
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Angular JS / React (Vite) / Apache2 |
-| Backend | Spring Boot (Java 17) / Maven |
-| Database | MySQL |
-| Infrastructure | AWS EC2 (Ubuntu 22.04) |
-| Containerization | Docker |
+| Feature | Detail |
+|---|---|
+| 🏗️ Architecture | Microservices-based — 15 frontend + 15 backend services |
+| ☁️ Cloud Deployment | AWS EC2 (m7i-flex.large), Ubuntu 22.04, 50GB EBS |
+| 🔄 CI/CD | Jenkins multibranch pipelines with master-slave node setup |
+| 🛡️ Security | Security Groups — ports 22, 80, 443, 8080 |
+| 🗄️ Database | MySQL with dedicated app user, role-based access |
+| 🌐 Web Server | Apache2 serving React (Vite) production build |
 
-**Key Highlights:**
-- End-to-end flight booking with customer management & reservation workflows
-- RESTful Spring Boot API with MySQL relational database backend
-- React (Vite) frontend served via Apache2 on AWS EC2
-- Deployed on AWS EC2 `m7i-flex.large` with Security Groups for ports 22, 80, 443, 8080
-- CI/CD ready with Jenkins multibranch pipeline support
+**🛠️ Stack:** `Angular JS` `Spring Boot` `MySQL` `MongoDB` `Docker` `Kubernetes` `Terraform` `Jenkins` `Maven` `Java 17`
 
-🔗 [View Repository](https://github.com/Cloud-Sahil/Flight-reservation)
+---
 
 ### 🏥 [EduBlitz – Medical B2B ERP Platform](https://github.com/Cloud-Sahil/edublitz-b2b-medical-erp)
 
