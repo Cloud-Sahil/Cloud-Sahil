@@ -85,6 +85,26 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 ## 🚀 Featured Projects
 
+### ✈️ Flight Reservation Application
+> Full-stack flight reservation system built on a Microservices architecture
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | Angular JS / React (Vite) / Apache2 |
+| Backend | Spring Boot (Java 17) / Maven |
+| Database | MySQL |
+| Infrastructure | AWS EC2 (Ubuntu 22.04) |
+| Containerization | Docker |
+
+**Key Highlights:**
+- End-to-end flight booking with customer management & reservation workflows
+- RESTful Spring Boot API with MySQL relational database backend
+- React (Vite) frontend served via Apache2 on AWS EC2
+- Deployed on AWS EC2 `m7i-flex.large` with Security Groups for ports 22, 80, 443, 8080
+- CI/CD ready with Jenkins multibranch pipeline support
+
+🔗 [View Repository](https://github.com/Cloud-Sahil/Flight-reservation)
+
 ### 🏥 [EduBlitz – Medical B2B ERP Platform](https://github.com/Cloud-Sahil/edublitz-b2b-medical-erp)
 
 > Production-grade B2B ERP platform for hospitals, distributors, and medical vendors, built on a microservices architecture with full CI/CD and Infrastructure as Code.
