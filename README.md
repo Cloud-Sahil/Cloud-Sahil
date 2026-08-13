@@ -68,7 +68,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 ## 💼 Work Experience
 
 ### 🏢 Hisan Labs Pvt. Ltd. — DevOps Engineer Intern
-**📅 Feb 2025 – Present**
+**📅 Feb 2026 – Present**
 
 > Building and managing production-grade cloud infrastructure on AWS, handling everything from VPC design to CI/CD automation and Kubernetes orchestration.
 
