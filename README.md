@@ -90,7 +90,7 @@ I strongly believe in the **"automate first"** mindset — if you're doing somet
 
 | Feature | Detail |
 |---|---|
-| 🏗️ Architecture | Microservices-based — 15 frontend + 15 backend services |
+| 🏗️ Architecture | Microservices-based — 5 frontend + 5 backend services |
 | ☁️ Cloud Deployment | AWS EC2 (m7i-flex.large), Ubuntu 22.04, 50GB EBS |
 | 🔄 CI/CD | Jenkins multibranch pipelines with master-slave node setup |
 | 🛡️ Security | Security Groups — ports 22, 80, 443, 8080 |
